@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Javascript, Angular, HTML, CSS.</strong>
+  💼 Habilidades: <strong>Javascript, React, HTML, CSS.</strong>
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>Angular e JavaScript.</strong>
+  🚀  Estudando: <strong>React e JavaScript.</strong>
 </p>
 
 <p align="center">
