@@ -13,13 +13,13 @@
 
 <br>
 <p align="center">
-  Sou <strong>Dev Front-End</strong>.<br />
-<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador de alto nivel.</strong>
+  Sou <strong>Dev Back-End Python & Data Analytics</strong>.<br />
+<strong></strong><strong></strong>
 
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Javascript, React, HTML, CSS.</strong>
+  💼 Habilidades: <strong>Python, Data Analytics.</strong>
 </p>
 
 <p align="center">
@@ -46,8 +46,8 @@
 <p align="center">
   
  
- <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-Python-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
+ <img src="https://img.shields.io/badge/-SQLServer-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
 
 
 <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
