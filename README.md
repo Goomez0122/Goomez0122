@@ -46,8 +46,8 @@
 <p align="center">
   
  
- <img src="https://img.shields.io/badge/-Python-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/-SQLServer-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-Python-%23F7DF1E?style=flat-square&logo=python&logoColor=black" height="25"/>
+ <img src="https://img.shields.io/badge/-SQLServer-%23DD0031?style=flat-square&logo=sqlserver&logoColor=white" height="25"/>
 
 
 <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
