@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>React e JavaScript.</strong>
+  🚀  Estudando: <strong>Python & SQLServer.</strong>
 </p>
 
 <p align="center">
